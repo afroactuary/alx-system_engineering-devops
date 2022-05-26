@@ -1,1 +1,1 @@
-Sript to create directory
+Sript to change the group owner
