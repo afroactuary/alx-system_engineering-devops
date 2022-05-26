@@ -1,1 +1,1 @@
-Script to change user
+Script to print username
