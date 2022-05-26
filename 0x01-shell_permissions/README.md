@@ -1,1 +1,1 @@
-Sript that adds executive permission
+Sript to add executive permission
