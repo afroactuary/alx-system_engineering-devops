@@ -1,1 +1,1 @@
-Sript to add executive permission
+Sript to set permission to the file
