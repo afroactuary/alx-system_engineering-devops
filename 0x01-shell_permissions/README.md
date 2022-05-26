@@ -1,1 +1,1 @@
-Sript to change the owner of file
+Sript to create an empty file
