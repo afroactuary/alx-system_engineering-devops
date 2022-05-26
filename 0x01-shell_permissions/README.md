@@ -1,1 +1,1 @@
-Sript to change owner of file
+Sript that adds executive permission
