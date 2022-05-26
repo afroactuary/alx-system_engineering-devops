@@ -1,1 +1,1 @@
-Sript to set permission to the file
+Sript to set mode of the file
