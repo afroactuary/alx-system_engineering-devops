@@ -1,1 +1,1 @@
-Sript to add executive permission
+Sript to create directory
